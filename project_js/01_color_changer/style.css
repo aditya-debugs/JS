@@ -17,6 +17,7 @@ html {
     border: solid black 2px;
     display: inline-block;
   }
+  
   #grey {
     background: grey;
   }
