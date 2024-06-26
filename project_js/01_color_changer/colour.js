@@ -19,6 +19,5 @@ buttons.forEach( function(button){
             body.style.backgroundColor = event.target.id;
         }
         })
-
 })
 
