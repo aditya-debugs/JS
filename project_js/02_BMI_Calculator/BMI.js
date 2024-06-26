@@ -34,8 +34,4 @@ form.addEventListener('submit', function(e){
             results.appendChild(text2)
         }
     }
-    
-
-    
-
 })
